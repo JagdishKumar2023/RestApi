@@ -205,7 +205,7 @@
   },
   {
     "job_title": "Paralegal",
-    "salary": 74026.0,
+    "salary": 74026,
     "location": "San Pedro",
     "company_name": "Skaboo",
     "industry": "Retail",
@@ -1621,7 +1621,7 @@
   },
   {
     "job_title": "Associate Professor",
-    "salary": 144466.0,
+    "salary": 144466,
     "location": "Yahotyn",
     "company_name": "Realmix",
     "industry": "Education",
@@ -5101,7 +5101,7 @@
   },
   {
     "job_title": "Product Engineer",
-    "salary": 148323.0,
+    "salary": 148323,
     "location": "Witkowo",
     "company_name": "Demivee",
     "industry": "Retail",
@@ -5425,7 +5425,7 @@
   },
   {
     "job_title": "Mechanical Systems Engineer",
-    "salary": 141400.0,
+    "salary": 141400,
     "location": "Norzagaray",
     "company_name": "Blogtag",
     "industry": "Finance",
@@ -7693,7 +7693,7 @@
   },
   {
     "job_title": "Account Coordinator",
-    "salary": 61871.0,
+    "salary": 61871,
     "location": "Tukhlya",
     "company_name": "Katz",
     "industry": "Retail",
@@ -8545,7 +8545,7 @@
   },
   {
     "job_title": "Executive Secretary",
-    "salary": 41101.0,
+    "salary": 41101,
     "location": "San Pedro Zacapa",
     "company_name": "Innojam",
     "industry": "Education",
@@ -9853,7 +9853,7 @@
   },
   {
     "job_title": "General Manager",
-    "salary": 67900.0,
+    "salary": 67900,
     "location": "Krasnoarmeysk",
     "company_name": "Wikibox",
     "industry": "Healthcare",
@@ -11998,5 +11998,29 @@
     "employment_type": "Freelance",
     "skills_required": "FTR",
     "job_description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+  },
+  {
+    "company_name": "Infosis",
+    "industry": "IT industry",
+    "location": "Indore",
+    "id": 1001
+  },
+  {
+    "company_name": "Infosis",
+    "industry": "IT industry",
+    "location": "Indore",
+    "id": 1002
+  },
+  {
+    "company_name": "Infotech",
+    "industry": "IT industry",
+    "location": "Mumbai",
+    "id": 1002
+  },
+  {
+    "company_name": "Infotech",
+    "industry": "IT industry",
+    "location": "Mumbai",
+    "id": 1003
   }
 ]
